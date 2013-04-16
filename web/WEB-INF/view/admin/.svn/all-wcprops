@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/web/WEB-INF/view/admin
+END
+adminRecordUpdate.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/web/WEB-INF/view/admin/adminRecordUpdate.jsp
+END
+adminSettings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/15/trunk/web/WEB-INF/view/admin/adminSettings.jsp
+END
+adminUserSearch.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/web/WEB-INF/view/admin/adminUserSearch.jsp
+END
+adminRecordForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/web/WEB-INF/view/admin/adminRecordForm.jsp
+END
+adminSalesSearch.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/16/trunk/web/WEB-INF/view/admin/adminSalesSearch.jsp
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/4/trunk/web/WEB-INF
+END
+glassfish-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/web/WEB-INF/glassfish-web.xml
+END
+404error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/web/WEB-INF/404error.jsp
+END
+500error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/web/WEB-INF/500error.jsp
+END
+sun-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/web/WEB-INF/sun-web.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/16/trunk/web/WEB-INF/web.xml
+END
+400error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/web/WEB-INF/400error.jsp
+END

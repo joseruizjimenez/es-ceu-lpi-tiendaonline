@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://es-ceu-lpi-tiendaonline.googlecode.com/svn/trunk/web/WEB-INF/configFiles
+https://es-ceu-lpi-tiendaonline.googlecode.com/svn
+
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7a0a0305-4765-58d4-35c4-79a11afdbf82
+
+adminConfig.prop
+file
+
+
+
+add
+
+antisamy-slashdot-1.4.3.xml
+file
+
+
+
+add
+
+emailConfig.prop
+file
+
+
+
+add
+
+persistenceConfig.prop
+file
+
+
+
+add
+

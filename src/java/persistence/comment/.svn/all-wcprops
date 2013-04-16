@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/6/trunk/src/java/persistence/comment
+END
+CommentDAOJDBCImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/18/trunk/src/java/persistence/comment/CommentDAOJDBCImplementation.java
+END
+CommentPersistFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/16/trunk/src/java/persistence/comment/CommentPersistFactory.java
+END
+CommentDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/src/java/persistence/comment/CommentDAO.java
+END
+CommentDAOFileImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/src/java/persistence/comment/CommentDAOFileImplementation.java
+END
+CommentDAOPoolImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/16/trunk/src/java/persistence/comment/CommentDAOPoolImplementation.java
+END

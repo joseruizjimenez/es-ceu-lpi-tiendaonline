@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/web/WEB-INF/view/public
+END
+shoppingCart.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/15/trunk/web/WEB-INF/view/public/shoppingCart.jsp
+END
+recordSearch.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/15/trunk/web/WEB-INF/view/public/recordSearch.jsp
+END
+adminLogin.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/15/trunk/web/WEB-INF/view/public/adminLogin.jsp
+END
+checkoutSuccess.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/web/WEB-INF/view/public/checkoutSuccess.jsp
+END
+userLogin.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/15/trunk/web/WEB-INF/view/public/userLogin.jsp
+END
+userDeleted.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/15/trunk/web/WEB-INF/view/public/userDeleted.jsp
+END
+recordInfo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/18/trunk/web/WEB-INF/view/public/recordInfo.jsp
+END
+userForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/15/trunk/web/WEB-INF/view/public/userForm.jsp
+END
+checkoutError.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/15/trunk/web/WEB-INF/view/public/checkoutError.jsp
+END
+newRecords.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/15/trunk/web/WEB-INF/view/public/newRecords.jsp
+END
+checkoutLogin.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/15/trunk/web/WEB-INF/view/public/checkoutLogin.jsp
+END
+featuredRecords.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/web/WEB-INF/view/public/featuredRecords.jsp
+END

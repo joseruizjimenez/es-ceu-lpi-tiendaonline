@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/7/trunk/src/java/persistence/stock
+END
+StockDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7/trunk/src/java/persistence/stock/StockDAO.java
+END
+StockPersistFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/16/trunk/src/java/persistence/stock/StockPersistFactory.java
+END
+StockDAOFileImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/src/java/persistence/stock/StockDAOFileImplementation.java
+END
+StockDAOPoolImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/16/trunk/src/java/persistence/stock/StockDAOPoolImplementation.java
+END
+StockDAOJDBCImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/17/trunk/src/java/persistence/stock/StockDAOJDBCImplementation.java
+END

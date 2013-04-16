@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/6/trunk/src/java/persistence/user
+END
+UserDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11/trunk/src/java/persistence/user/UserDAO.java
+END
+UserDAOFileImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/16/trunk/src/java/persistence/user/UserDAOFileImplementation.java
+END
+UserDAOPoolImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/16/trunk/src/java/persistence/user/UserDAOPoolImplementation.java
+END
+UserDAOJDBCImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/17/trunk/src/java/persistence/user/UserDAOJDBCImplementation.java
+END
+UserPersistFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/16/trunk/src/java/persistence/user/UserPersistFactory.java
+END

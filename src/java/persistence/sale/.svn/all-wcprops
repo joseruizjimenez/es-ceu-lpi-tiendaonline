@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/6/trunk/src/java/persistence/sale
+END
+SalePersistFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/16/trunk/src/java/persistence/sale/SalePersistFactory.java
+END
+SaleDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/src/java/persistence/sale/SaleDAO.java
+END
+SaleDAOFileImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/15/trunk/src/java/persistence/sale/SaleDAOFileImplementation.java
+END
+SaleDAOPoolImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/16/trunk/src/java/persistence/sale/SaleDAOPoolImplementation.java
+END
+SaleDAOJDBCImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/17/trunk/src/java/persistence/sale/SaleDAOJDBCImplementation.java
+END

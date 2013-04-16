@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/11/trunk/src/java/controller/publico
+END
+CheckoutCartServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/16/trunk/src/java/controller/publico/CheckoutCartServlet.java
+END
+UserCreateServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/15/trunk/src/java/controller/publico/UserCreateServlet.java
+END
+ShoppingCartServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/15/trunk/src/java/controller/publico/ShoppingCartServlet.java
+END
+RecordSearchServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/15/trunk/src/java/controller/publico/RecordSearchServlet.java
+END
+AdminLoginServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/13/trunk/src/java/controller/publico/AdminLoginServlet.java
+END
+UserLoginServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/15/trunk/src/java/controller/publico/UserLoginServlet.java
+END
+RecordInfoServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/15/trunk/src/java/controller/publico/RecordInfoServlet.java
+END

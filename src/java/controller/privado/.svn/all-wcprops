@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/11/trunk/src/java/controller/privado
+END
+UserLogoutServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/13/trunk/src/java/controller/privado/UserLogoutServlet.java
+END
+UserDeleteServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12/trunk/src/java/controller/privado/UserDeleteServlet.java
+END
+CommentDeleteServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/15/trunk/src/java/controller/privado/CommentDeleteServlet.java
+END
+CommentCreateServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/15/trunk/src/java/controller/privado/CommentCreateServlet.java
+END
+MailSaleServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/15/trunk/src/java/controller/privado/MailSaleServlet.java
+END
+MailUserServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/16/trunk/src/java/controller/privado/MailUserServlet.java
+END
+UserUpdateServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/15/trunk/src/java/controller/privado/UserUpdateServlet.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/7/trunk/src/java/persistence/record
+END
+RecordDAOFileImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/16/trunk/src/java/persistence/record/RecordDAOFileImplementation.java
+END
+RecordDAOPoolImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/16/trunk/src/java/persistence/record/RecordDAOPoolImplementation.java
+END
+RecordDAOJDBCImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/17/trunk/src/java/persistence/record/RecordDAOJDBCImplementation.java
+END
+RecordPersistFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6/trunk/src/java/persistence/record/RecordPersistFactory.java
+END
+RecordDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7/trunk/src/java/persistence/record/RecordDAO.java
+END
